@@ -11,19 +11,21 @@ See examples below.
 
 ## Getting started
 
-Once you cloned the repository, please **install the requirements**:
+Once you cloned the repository, please install the requirements:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-You can now **run the program** using:
+Then run the program using:
 
 ```bash
 python main.py
 ```
 
-You can specify various **parameters** using the following arguments:
+### Parameters
+
+You can specify various parameters using the following arguments:
 
 '-p', '--path': Path to save output (str)
 
