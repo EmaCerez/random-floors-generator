@@ -60,7 +60,7 @@ You can specify various parameters using the following arguments:
 (Like so:)
 
 ```bash
-python main.py -rand True -cn 8 -iw 14 -col "blue"
+python main.py -rand True -col "blue" -wl 1 -iw 14 -cn 14
 ```
 
 
