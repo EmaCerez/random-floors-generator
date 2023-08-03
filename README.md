@@ -1,12 +1,17 @@
-# Random Floor Generator
+# Random Floors Generator
 
-<img src="https://github.com/EmaCerez/RandFloor_Generator/assets/114211762/11c2bb43-1721-40b2-af28-7ac8fcf167c3" width="400">
+<p>
+  <img src="https://github.com/EmaCerez/RandFloor_Generator/assets/114211762/856714c0-062f-4bc5-adb1-116fc82594d2" width="150">
+  <img src="https://github.com/EmaCerez/RandFloor_Generator/assets/114211762/11c2bb43-1721-40b2-af28-7ac8fcf167c3" width="150">
+  <img src="https://github.com/EmaCerez/RandFloor_Generator/assets/114211762/34dafae5-cdaa-4054-a24d-17c38f09aba0" width="150">
+  <img src="https://github.com/EmaCerez/RandFloor_Generator/assets/114211762/a309c9b6-5ad7-4f32-a062-8026595fb870" width="150">
+</p>
 
 ## Description
 
 This program generates graphs representing randomized floor topologies.
 
-See examples below.
+See examples above and below.
 
 ## Context
 
