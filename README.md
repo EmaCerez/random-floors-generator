@@ -8,6 +8,9 @@ This program generates graphs representing randomized floor topologies.
 
 See examples below.
 
+## Context
+
+A friend of mine asked for this.
 
 ## Getting started
 
