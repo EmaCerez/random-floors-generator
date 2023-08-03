@@ -1,5 +1,7 @@
 # Random Floor Generator
 
+<img src="https://github.com/EmaCerez/RandFloor_Generator/assets/114211762/11c2bb43-1721-40b2-af28-7ac8fcf167c3" width="400">
+
 ## Description
 
 This program generates graphs representing randomized floor topologies.
@@ -53,7 +55,7 @@ python main.py -rand True -cn 8 -iw 14 -col "blue"
 
 
 
-## Example outputs:
+## Examples:
 
 Without randomized outside walls:
 
@@ -104,6 +106,6 @@ With randomized outside walls:
 polygon-triangulation (ajaycc17) : https://github.com/ajaycc17/polygon-triangulation/tree/main
 
 
-## If you want to use this inside your own project.
+## If you want to use this inside your own project:
 
 Please credit me.
