@@ -35,27 +35,27 @@ python main.py
 
 You can specify various parameters using the following arguments:
 
-'-p', '--path': Path to save output (str)
+`-p`, `--path`: Path to save output (str)
 
-'-f', '--filename': Name of output file. (str)
+`-f`, `--filename`: Name of output file. (str)
 
-'-rand', '--randomize': Weither or not the outside corners of the floors should be randomized. (bool)
+`-rand`, `--randomize`: Weither or not the outside corners of the floors should be randomized. (bool)
 
-'-cn', '--corners': How many outside corners in the randomized output. (int)
+`-cn`, `--corners`: How many outside corners in the randomized output. (int)
 
-'-miw', '--manual-inside-walls': How many points to create inside walls (if not randomized). (int)
+`-miw`, `--manual-inside-walls`: How many points to create inside walls (if not randomized). (int)
 
-'-iw', '--inside-walls: How many points to create inside walls (if randomized). (int)
+`-iw`, `--inside-walls`: How many points to create inside walls (if randomized). (int)
 
-'-poly', '--polygon': Specify a polygon structure: [Point(0,0), Point(25,0), ...]. Points coordinates must be between 0 and 100. (list[Point])
+`-poly`, `--polygon`: Specify a polygon structure: [Point(0,0), Point(25,0), ...]. Points coordinates must be between 0 and 100. (list[Point])
 
-'-sep', '--separator': Minimum distance between two inside points. Must not be too big, especially if inside-walls parameter is big. (float)
+`-sep`, `--separator`: Minimum distance between two inside points. Must not be too big, especially if inside-walls parameter is big. (float)
 
-'-wl', '--wall-length': The xth closest point will be used to build walls. (int)
+`-wl`, `--wall-length`: The xth closest point will be used to build walls. (int)
 
-'-col', '--color': The color of the output." (str)
+`-col`, `--color`: The color of the output." (str)
 
-'-sd', '--show-dots', : Show points used to create the output. (bool)
+`-sd`, `--show-dots`, : Show points used to create the output. (bool)
 
 (Like so:)
 
